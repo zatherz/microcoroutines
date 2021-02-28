@@ -4,6 +4,7 @@
 
 features
 ===
+- proper error handling
 - `async` and `async_loop` return numeric IDs for coroutines
 - features two new functions:
     - `cancel(id)` - cancels a waiting coroutine
